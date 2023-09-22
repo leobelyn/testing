@@ -10,6 +10,6 @@ class Home extends BaseController
     }
     public function leobelyn()
     {
-        echo 'hello leobelyn'
+        echo 'hello leobelyn';
     }
 }
